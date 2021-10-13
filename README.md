@@ -9,6 +9,7 @@ CONTENTS OF THIS FILE
  * Installation
  * Configuration
  * Troubleshooting
+ * Testing new commits to rebase
 
  INTRODUCTION
 ------------
