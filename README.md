@@ -9,6 +9,7 @@ CONTENTS OF THIS FILE
  * Installation
  * Configuration
  * Troubleshooting
+ * Testing new commits to rebase
 
  INTRODUCTION
 ------------
@@ -23,8 +24,7 @@ RECOMMENDED MODULES
 - Eget nunc 
 - Scelerisque viverra mauris 
 - Vulputate enim 
-- Nulla aliquet 
-- Porttitor lacus
+
 
 INSTALLATION
 ------------
@@ -33,7 +33,8 @@ INSTALLATION
 3. Montes nascetur ridiculus mus mauris. 
 4. Accumsan tortor posuere ac ut consequat semper. 
 5. Id semper risus in hendrerit gravida rutrum. 
-6. Vel facilisis volutpat est velit egestas dui id.
+6. Vel facilisis volutpat est velit egestas dui id.\
+7. asdfasdfasd akjfkjadsf 
 
 CONFIGURATION
 -------------
